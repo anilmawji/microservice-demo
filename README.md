@@ -1,5 +1,5 @@
 # microservice-demo
-Demonstration of client-server communication. The indirection server acts as a hub for connecting to various microservices (a translation server, a currency conversion server and a voting server).
+Demonstration of client-server communication. The indirection server acts as a hub for connecting to various microservices (a translation server, a currency conversion server and a voting server). Made to work on a Linux environment.
 
 Compile each file with the following commands:
 `currency_server.c -o cur`
